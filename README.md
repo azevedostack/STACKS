@@ -1,3 +1,3 @@
 # STACKS
 Primeiro repositório de Git e GitHub
-Estou aprendendo!
+Estou aprendendo! vou ficar bom!
